@@ -11,7 +11,7 @@ A APi é constituida pela parte de backend, com o arquivo clientes.json que tem 
 <img src="https://github.com/LucasCicero/NodejsApi/blob/master/front/publico/imagens/print1.png" height="300">
 
 
-<img src="https://github.com/LucasCicero/NodejsApi/blob/master/front/publico/imagens/print2.PNG" height="300"><br>
+<img src="https://github.com/LucasCicero/NodejsApi/blob/master/front/publico/imagens/print2.PNG" height="200"><br>
 
 
 
