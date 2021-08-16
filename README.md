@@ -15,19 +15,19 @@ A APi é constituida pela parte de backend, com o arquivo clientes.json que tem 
 
 
 
-Na parte de front é possível cadastrar um novo usuário:<br>
+-Na parte de front é possível cadastrar um novo usuário:<br>
 
 
 <img src="https://github.com/LucasCicero/NodejsApi/blob/master/front/publico/imagens/print3.PNG" height="300"><br>
  
  
  
-Também é possível consultar logo a baixo do formulário de cadastro, os usuários já cadastrados:<br>
+-Também é possível consultar logo a baixo do formulário de cadastro, os usuários já cadastrados:<br>
                                                                                                          
 <img src="https://github.com/LucasCicero/NodejsApi/blob/master/front/publico/imagens/print4.PNG" height="300"> <br>
  
  
  
-Clicando em Selecionar, é possível remover um usuário ou editar informações do mesmo:<br>
+-Clicando em Selecionar, é possível remover um usuário ou editar informações do mesmo:<br>
 
 <img src="https://github.com/LucasCicero/NodejsApi/blob/master/front/publico/imagens/print6.PNG" height="300"><br>
